@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    
+    "navigationBarBackgroundColor": "#E05F83",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "Online Wallet",
+    "navigationStyle":"default",
+    "backgroundColor": "#fff000",
+    "backgroundTextStyle": "light",
+    "backgroundColorTop":"#fff000",
+    "backgroundColorBottom":"#fff000",
+    "enablePullDownRefresh":false,
+    "onReachBottomDistance":50
+  }
+}
