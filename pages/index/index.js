@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '设置Git Extension 成功！！！',
+    motto: '设置Git Extension 成功账号！！！',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
