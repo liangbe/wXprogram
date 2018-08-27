@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    motto: '滚犊子！！！',
+    motto: '上传代码到GitHub成功！！！',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
